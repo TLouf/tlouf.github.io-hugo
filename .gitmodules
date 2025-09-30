@@ -1,0 +1,3 @@
+[submodule "static/CV"]
+	path = static/CV
+	url = https://github.com/TLouf/CV.git
